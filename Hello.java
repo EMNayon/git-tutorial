@@ -4,11 +4,9 @@ public class Hello {
         
     
     }
-    public static void message(){
-        System.out.println("Hooray!!! Now we are able to contribute on open source...");
-    }
-    public static void add(int a, int b){
-        System.out.println(a+b);
+    
+    public static void sqr(int x){
+        System.out.println(x*x);
     }
    
 }
