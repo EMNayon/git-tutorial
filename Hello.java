@@ -5,8 +5,8 @@ public class Hello {
     
     }
     
-    public static void sqr(int x){
-        System.out.println(x*x);
+    public static int area(int x, int y, int z){
+        return x*y*z;
     }
    
 }
