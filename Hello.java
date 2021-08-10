@@ -8,5 +8,8 @@ public class Hello {
     public static int area(int x, int y, int z){
         return x*y*z;
     }
+    public static void display(){
+        System.out.println("Merge conflict bothera lot");
+    }
    
 }
